@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @derrickngabo - call me Derrick 
+- 👀 I’m interested in Computer science, physics and Business 
+- 🌱 I’m currently learning Computer Science at University of Queensland 
+- 💞️ I’m looking to collaborate on projects with (c)++, python, java, javascript and I can also learn a new language if the project is interesting enough to me
+- 📫 How to reach me - through email --> niyongaboderrick@gmail.com 
